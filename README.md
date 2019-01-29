@@ -9,7 +9,14 @@
 
 ## Usage
 
-This module is under development and not ready for use yet.
+Add dev dependencies in `package.json`:
+
+* `@overlookmotel/eslint-config-jest`
+* `eslint-plugin-jest`
+
+Add to `.eslintrc`: `"extends": "@overlookmotel/eslint-config-jest"`
+
+NB Does not extend the base config [@overlookmotel/eslint-config](https://www.npmjs.com/package/@overlookmotel/eslint-config) so use `"extends": "@overlookmotel/eslint-config"` too in `.eslintrc`.
 
 ## Tests
 
