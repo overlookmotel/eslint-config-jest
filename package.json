@@ -16,8 +16,8 @@
   "dependencies": {
   },
   "peerDependencies": {
-    "eslint": "^5.12.1",
-    "eslint-plugin-jest": "^22.3.0"
+    "eslint": "^5.16.0",
+    "eslint-plugin-jest": "^22.4.1"
   },
   "devDependencies": {
     "@overlookmotel/eslint-config": "^1.1.1",
@@ -25,10 +25,10 @@
     "chai": "^4.2.0",
     "coveralls": "^3.0.2",
     "cross-env": "^5.2.0",
-    "eslint": "^5.12.1",
+    "eslint": "^5.16.0",
     "eslint-plugin-chai-friendly": "^0.4.1",
     "eslint-plugin-eslint-comments": "^3.0.1",
-    "eslint-plugin-jest": "^22.3.0",
+    "eslint-plugin-jest": "^22.4.1",
     "istanbul": "^0.4.5",
     "mocha": "^5.2.0"
   },
