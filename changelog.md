@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.1.0
+
+Rules:
+
+* `no-disabled-tests` rule is error not warn
+
+Other:
+
+* Update dev dependency `@overlookmotel/eslint-config`
+
 ## 1.0.2
 
 * Update dependencies
