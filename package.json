@@ -13,14 +13,13 @@
   "bugs": {
     "url": "https://github.com/overlookmotel/eslint-config-jest/issues"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "peerDependencies": {
     "eslint": "^5.16.0",
     "eslint-plugin-jest": "^22.4.1"
   },
   "devDependencies": {
-    "@overlookmotel/eslint-config": "^2.0.0",
+    "@overlookmotel/eslint-config": "^2.1.0",
     "@overlookmotel/eslint-config-tests": "^1.0.4",
     "chai": "^4.2.0",
     "coveralls": "^3.0.3",
