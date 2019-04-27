@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.1.1
+
+Dev:
+
+* Update dev dependency `@overlookmotel/eslint-config`
+* Update dev dependency `@overlookmotel/eslint-config-tests`
+* Git ignore package-lock.json
+
 ## 1.1.0
 
 Rules:
