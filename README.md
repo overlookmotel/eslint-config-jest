@@ -12,6 +12,7 @@
 Add dev dependencies in `package.json`:
 
 * `@overlookmotel/eslint-config-jest`
+* `eslint`
 * `eslint-plugin-jest`
 
 Add to `.eslintrc`: `"extends": "@overlookmotel/eslint-config-jest"`
