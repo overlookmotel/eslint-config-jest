@@ -1,7 +1,3 @@
 'use strict';
 
-module.exports = {
-	extends: [
-		'@overlookmotel/eslint-config-tests'
-	]
-};
+module.exports = require('../index');
