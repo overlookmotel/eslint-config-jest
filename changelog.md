@@ -1,5 +1,15 @@
 # Changelog
 
+## 3.0.1
+
+Dev:
+
+* Test with Jest
+
+Doc:
+
+* Fix changelog
+
 ## 3.0.0
 
 Breaking changes:
