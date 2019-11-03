@@ -1,5 +1,13 @@
 # Changelog
 
+Breaking changes:
+
+* Update peer dependencies
+
+Dev:
+
+* Update dev dependencies
+
 ## 2.1.0
 
 Features:
