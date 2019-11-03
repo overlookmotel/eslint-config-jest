@@ -1,5 +1,7 @@
 # Changelog
 
+## 3.0.0
+
 Breaking changes:
 
 * Update peer dependencies
