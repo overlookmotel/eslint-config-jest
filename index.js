@@ -25,7 +25,7 @@ module.exports = {
 		'jest/prefer-to-be-undefined': ['error'],
 		'jest/prefer-to-contain': ['error'],
 		'jest/prefer-to-have-length': ['error'],
-		'jest/require-tothrow-message': ['error'],
+		'jest/require-to-throw-message': ['error'],
 		'jest/no-disabled-tests': ['error']
 	}
 };
