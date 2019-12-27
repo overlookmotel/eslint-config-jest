@@ -19,7 +19,7 @@
     "eslint-plugin-jest": "^23.0.2"
   },
   "devDependencies": {
-    "@overlookmotel/eslint-config": "^5.0.1",
+    "@overlookmotel/eslint-config": "^6.0.0",
     "coveralls": "^3.0.7",
     "cross-env": "^6.0.3",
     "eslint": "^6.6.0",
