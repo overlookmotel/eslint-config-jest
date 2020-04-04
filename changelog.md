@@ -1,5 +1,37 @@
 # Changelog
 
+## 4.0.0
+
+Breaking changes:
+
+* Drop support for Node v8
+
+Refactor:
+
+* Import file extensions
+
+Dependencies:
+
+* Update ESLint peer dependencies
+
+No code:
+
+* Header code comments
+
+Dev:
+
+* CI run tests on Node v13
+* Update dev dependencies
+* Tab width 2 in `.editorconfig`
+* ESLint ignore coverage dir
+* Update `.gitignore` + `.npmignore`
+* Remove `sudo` key from Travis CI config
+
+Docs:
+
+* Versioning policy
+* Update license year
+
 ## 3.0.1
 
 Dev:
