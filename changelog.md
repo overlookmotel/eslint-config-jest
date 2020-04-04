@@ -1,5 +1,11 @@
 # Changelog
 
+## 4.0.1
+
+Dev:
+
+* NPM ignore `jest.config.js`
+
 ## 4.0.0
 
 Breaking changes:
