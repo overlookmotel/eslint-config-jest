@@ -8,3 +8,4 @@ coverage
 .gitignore
 .npmignore
 .travis.yml
+jest.config.js
