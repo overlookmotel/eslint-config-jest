@@ -1,5 +1,31 @@
 # Changelog
 
+## 4.1.0
+
+Features:
+
+* Drop support for Node v13
+
+Deps:
+
+* Update peer dependencies
+
+Tests:
+
+* Import module by name [refactor]
+* Run tests in dev mode
+
+Dev:
+
+* Replace `.npmignore` with `files` list in `package.json`
+* Update dev dependencies
+* CI run tests on Node v14
+* `.editorconfig` config
+* Simplify lint scripts
+* Simplify Jest config
+* Remove `sudo` key from Travis CI config
+* Travis CI cache NPM
+
 ## 4.0.1
 
 Dev:
