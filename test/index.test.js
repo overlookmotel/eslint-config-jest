@@ -6,7 +6,7 @@
 'use strict';
 
 // Modules
-const eslintConfigJest = require('../index.js');
+const eslintConfigJest = require('@overlookmotel/eslint-config-jest');
 
 // Tests
 

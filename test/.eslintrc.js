@@ -5,6 +5,16 @@
 
 'use strict';
 
+// Imports
+const eslintConfigJest = require('../index.js');
+
 // Exports
 
-module.exports = require('../index.js');
+module.exports = {
+	...eslintConfigJest,
+	rules: {
+		...eslintConfigJest.rules,
+		'import/no-unresolved': ['error', {ignore: ['^@overlookmotel/eslint-config-jest$']}],
+		'node/no-missing-require': ['error', {allowModules: ['@overlookmotel/eslint-config-jest']}]
+	}
+};
