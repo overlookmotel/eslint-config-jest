@@ -1,5 +1,19 @@
 # Changelog
 
+## 4.1.1
+
+Rules:
+
+* `lowercase-name` relaxed with `ignoreTopLevelDescribe` option
+
+Dependencies:
+
+* Update peer dependencies
+
+Docs:
+
+* Correct changelog
+
 ## 4.1.0
 
 Features:
