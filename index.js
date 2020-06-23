@@ -19,7 +19,7 @@ module.exports = {
 	rules: {
 		'jest/consistent-test-it': ['error', {fn: 'it', withinDescribe: 'it'}],
 		'jest/expect-expect': ['error'],
-		'jest/lowercase-name': ['error'],
+		'jest/lowercase-name': ['error', {ignoreTopLevelDescribe: true}],
 		'jest/no-test-callback': ['error'],
 		'jest/no-test-return-statement': ['error'],
 		'jest/prefer-to-be-null': ['error'],
