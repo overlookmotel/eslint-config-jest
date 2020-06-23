@@ -6,7 +6,7 @@ Features:
 
 * Drop support for Node v13
 
-Deps:
+Dependencies:
 
 * Update peer dependencies
 
