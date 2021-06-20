@@ -1,5 +1,5 @@
 /* --------------------
- * @overlookmotel/eslint-config-jest module
+ * `@overlookmotel/eslint-config-jest` module
  * ------------------*/
 
 'use strict';
