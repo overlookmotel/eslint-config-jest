@@ -2,7 +2,6 @@
 [![Build Status](https://img.shields.io/travis/overlookmotel/eslint-config-jest/master.svg)](http://travis-ci.org/overlookmotel/eslint-config-jest)
 [![Dependency Status](https://img.shields.io/david/overlookmotel/eslint-config-jest.svg)](https://david-dm.org/overlookmotel/eslint-config-jest)
 [![Dev dependency Status](https://img.shields.io/david/dev/overlookmotel/eslint-config-jest.svg)](https://david-dm.org/overlookmotel/eslint-config-jest)
-[![Greenkeeper badge](https://badges.greenkeeper.io/overlookmotel/eslint-config-jest.svg)](https://greenkeeper.io/)
 [![Coverage Status](https://img.shields.io/coveralls/overlookmotel/eslint-config-jest/master.svg)](https://coveralls.io/r/overlookmotel/eslint-config-jest)
 
 # @overlookmotel's ESLint config for tests with jest
