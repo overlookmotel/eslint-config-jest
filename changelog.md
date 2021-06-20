@@ -18,7 +18,7 @@ Dev:
 
 * Use NPM v7 for development
 * Use Github Actions for CI
-* Dev: Update dev dependencies
+* Update dev dependencies
 
 Docs:
 
