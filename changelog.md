@@ -1,5 +1,17 @@
 # Changelog
 
+## 5.0.1
+
+Dev:
+
+* Fix `package-lock.json` version
+* Update dev dependencies
+
+Docs:
+
+* Correct supported Node version
+* Correct changelog
+
 ## 5.0.0
 
 Features:
