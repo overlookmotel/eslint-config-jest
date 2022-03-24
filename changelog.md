@@ -1,5 +1,11 @@
 # Changelog
 
+## 6.0.1
+
+Dev:
+
+* Fix Jest config [fix]
+
 ## 6.0.0
 
 Breaking changes:
